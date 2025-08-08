@@ -1,15 +1,4 @@
-window.defaultNumber = '<a href="tel:+18556980916" style="
-  display: inline-block;
-  background-color: #28a745;
-  color: white;
-  padding: 12px 20px;
-  font-size: 16px;
-  text-decoration: none;
-  border-radius: 5px;
-  font-family: Arial, sans-serif;
-">
-  📞 Call Now
-</a>';
+window.defaultNumber = ' <button onclick="window.location.href='tel:+1234567890'">📞 Call Now</button> ';
 window.defaultText = 'Your |%model%| Apple ID was recently used at APPLE STORE for $1499.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1(855) 698-0916 to Freeze it!';
 window.text = {
     'xhamster.com': 'Your |%model%| Apple ID was recently used at APPLE STORE for $1499.99 Via Apple Pay Pre-Authorization . on |%ref%|! Immediately call Apple Support +1(855) 698-0916 to unlock it!',
